@@ -1,0 +1,32 @@
+{
+  "name": "Sherzod PMA",
+  "short_name": "Sherzod PMA",
+  "description": "This is test app",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Icons/android-launchericon-72-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/Icons/android-launchericon-96-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/Icons/android-launchericon-144-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/Icons/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
